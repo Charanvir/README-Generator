@@ -4,7 +4,7 @@ module.exports = data => {
 
 ![badmath](https://img.shields.io/badge/License-${data.license}-green)
 
-## Table of Contents
+## <u>Table of Contents</u>
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
@@ -13,35 +13,33 @@ module.exports = data => {
 6. [Tests](#tests)
 7. [Questions](#questions)
 
-## Description
+## <u>Description</u>
 
 ${data.description}
 
-## Installation
+## <u>Installation</u>
 
 ${data.installation}
 
-## Usage
+## <u>Usage</u>
 
 ${data.usage}
 
-## License
+## <u>License</u>
 The following application is covered under the ${data.license} License
 
-## Contributing
+## <u>Contributing</u>
 
 ${data.contributing}
 
-## Tests
+## <u>Tests</u>
 
 ${data.tests}
 
-## Questions
+## <u>Questions</u>
 [Github](https://github.com/${data.github})
 
 
 Direct any additional questions you have regarding this application to ${data.email}
-
-
     `
 }
