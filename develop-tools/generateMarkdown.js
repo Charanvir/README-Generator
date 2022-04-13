@@ -14,31 +14,38 @@ module.exports = data => {
 7. [License](#license)
 
 ## Description
+***
 
 ${data.description}
 
 ## Installation
+***
 
 ${data.installation}
 
 ## Usage
+***
 
 ${data.usage}
 
 ## Contributing
+***
 
 ${data.contributing}
 
 ## Tests
+***
 
 ${data.tests}
 
 ## Questions
+***
 [Github](https://github.com/${data.github})
 
 Direct any additional questions you have regarding this application to ${data.email}
 
 ## License
+***
 The following application is covered under the ${data.license} License
     `
 }
