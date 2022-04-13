@@ -8,38 +8,37 @@ module.exports = data => {
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [License](#license)
-5. [Contributing](#contributing)
-6. [Tests](#tests)
-7. [Questions](#questions)
+4. [Contributing](#contributing)
+5. [Tests](#tests)
+6. [Questions](#questions)
+7. [License](#license)
 
-## <u>Description</u>
+## Description
 
 ${data.description}
 
-## <u>Installation</u>
+## Installation
 
 ${data.installation}
 
-## <u>Usage</u>
+## Usage
 
 ${data.usage}
 
-## <u>License</u>
-The following application is covered under the ${data.license} License
-
-## <u>Contributing</u>
+## Contributing
 
 ${data.contributing}
 
-## <u>Tests</u>
+## Tests
 
 ${data.tests}
 
-## <u>Questions</u>
+## Questions
 [Github](https://github.com/${data.github})
 
-
 Direct any additional questions you have regarding this application to ${data.email}
+
+## License
+The following application is covered under the ${data.license} License
     `
 }
