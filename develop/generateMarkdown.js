@@ -1,1 +1,0 @@
-// Page to create function which generates the markdown
