@@ -2,7 +2,7 @@
 module.exports = data => {
     return `# ${data.title}
 
-![badmath](https://img.shields.io/badge/License-${data.license}-green)
+![badmath](https://img.shields.io/badge/License-${data.license}-green) ![badmath](https://img.shields.io/badge/Version-${data.version}-blue) 
 
 ## <u>Table of Contents</u>
 1. [Description](#description)
