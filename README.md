@@ -50,9 +50,7 @@ The following images show the markdown generated from the application and a prev
 
 <img src="./assets/images/markdown.png" width="500"> <img src="./assets/images/product.png" width="500">
 
-The following is a link to a video which shows how the application is used.
-
-
+The following is a link to a video which shows how the application is used: [README.md Generator Walkthrough Video](https://vimeo.com/699325065)
 
 ## Contributing
 ***
